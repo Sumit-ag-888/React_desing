@@ -1,0 +1,13 @@
+// @font-face {
+//     font-family: "GroovyCute";
+//     src: local("GroovyCute"),
+//      url("./fonts/Groovy-Cute.ttf") format("truetype");
+//     font-weight: bold;
+//     font-size: x-large;
+//    }
+
+@import "./scss/bootstrap";
+
+*{
+    font-family: "GroovyCute";
+}
